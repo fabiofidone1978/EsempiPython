@@ -1,0 +1,2 @@
+Questo è un file di esempio.
+Questa è una nuova riga aggiunta.
